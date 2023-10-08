@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Fix TypeError in check_cfg() (#9245)
